@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+#no{
+  color: slateblue;
+}
+
+#Tampa {
+  color: blue;
+}
+#Riverside {
+  color: green;
+}
+#Montgomery {
+  color: rgb(144, 173, 62);
+}
+#Memphis  {
+  color: blueviolet;
+}
+#Birmingham {
+  color: aqua;
+}
+#Pittsburgh {
+  color: coral;
+}
